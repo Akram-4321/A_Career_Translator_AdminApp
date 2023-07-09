@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931890352746",
+    "project_id": "career-translator-mimit",
+    "storage_bucket": "career-translator-mimit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931890352746:android:28970dc554555d22d13013",
+        "android_client_info": {
+          "package_name": "com.mimitapp.careertranslatormimit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931890352746-ncdn3l9hl5rjcjaf65qgirqhlqpd5ups.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRK3ax9ABOPrSmN4vIOheBY8xP9Jy4Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931890352746-ncdn3l9hl5rjcjaf65qgirqhlqpd5ups.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
